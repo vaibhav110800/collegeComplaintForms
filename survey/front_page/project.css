@@ -1,0 +1,145 @@
+html, body {
+  font-family: 'Open Sans', sans-serif;
+  color: #ebebeb;
+  background-color: #141414;
+  margin-top: 0px;
+  margin-bottom: 4px;
+}
+
+.text1{
+  padding-top: 110px;
+  padding-left: 300px;
+  padding-right: 300px;
+  text-align: center;
+}
+
+.name1{
+  font-family: 'Anton', sans-serif;
+  background-color: #bdd4e7;
+  background-image: linear-gradient(315deg, #bdd4e7 0%, #8693ab 74%);
+    font-size: 100px;
+}
+
+.demo-frame header {
+  display: none;
+}
+
+.demo-wrapper {
+  min-height: 500px;
+}
+
+.bsap_1280449 {
+  position: absolute;
+  top: 0;
+  right: 0;
+}
+
+.parallax [class*="bg__"] {
+  position: relative;
+  height: 200px;
+  text-indent: -9999px;
+  background-attachment: fixed;
+  background-position: top center;
+  background-size: cover;
+}
+
+.parallax [class*="bg__"]:nth-child(2n) {
+  box-shadow: inset 0 0 1em #111;
+}
+
+.parallax .bg__foo, .parallax .bg__bazz {
+  height: 1000px;
+ 
+  
+}
+
+.parallax .bg__foo {
+  background-image: url(https://images.static-collegedunia.com/public/college_data/images/appImage/25561_JUIT_NEW.jpg);
+  width: 1540px;
+
+}
+
+.parallax .bg__bar {
+  background-image: url(https://live.staticflickr.com/2537/4000465894_bb87774bde_b.jpg);
+  height: 1000px;  
+  width :1540px;
+}
+
+.parallax .bg__baz {
+  background-image: url(https://images.shiksha.com/mediadata/images/1555651825php72QJa5.jpeg);
+  height: 900px;
+  width : 1540px;
+}
+
+.parallax .bg__bazz {
+  background-image: url(https://www.juet.ac.in/Facilities/images/Shop3.JPG);
+  
+  width: 1540px
+}
+.parallax .bg__pkc {
+  background-image: url(https://i.ytimg.com/vi/r6KvbA-ssKk/maxresdefault.jpg);
+  height: 900px;
+  width : 1540px;
+}
+
+.parallax .bg__break {
+  box-shadow: 0 0 40px #111;
+  height:900px;
+  width:1540px;
+  background-image: url(https://upload.wikimedia.org/wikipedia/commons/c/c9/Juit_o.jpg);
+}
+.parallax .logo {
+    float:left;
+    width: 400px;
+    text-indent: 0;
+    color: #141414;
+
+}
+
+p.serif {
+  font-family: "Times New Roman", Times, serif;
+}
+
+.parallax .capture {
+  float: right;
+  width: 200px;
+  padding: 1em;
+  text-align: center;
+  margin: 0.5em 0.5em 0 0;
+  text-indent: 0;
+  text-align: center;
+  background: rgba(243, 243, 243, 0.75);
+  box-shadow: 0 1px 0.125em #333;
+  color: #141414;
+}
+
+
+
+article .header {
+  position: relative;
+  height: 200px;
+  margin: 0 0 0 0;
+  width:1540px;
+  text-align: left;
+  font-size: 2em;
+  color: #333;
+  background-color: rgba(255, 255, 255, 0.75);
+}
+
+article h1, article h2 {
+  margin: 0 0 0.333em;
+}
+
+article section {
+  padding: 3em;
+}
+
+article section.parallax {
+  margin: 0;
+  padding: 0;
+}
+
+#frame {
+  width: 1500px;
+  margin: 0 auto;
+}

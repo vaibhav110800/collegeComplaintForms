@@ -1,0 +1,90 @@
+
+<html>
+  <head>
+    <style>
+    #A1 
+    {
+      border: 2px solid rgb(0, 0, 0);
+      padding: 200px;
+      background: url("https://www.srconsultancy.net.in/img/about.jpg");
+      background-repeat: no-repeat;
+      background-size: auto 120%;
+    }
+    </style>
+  </head>  
+
+<div id="A1">
+
+<body>
+
+  <div id="A1">
+
+  <center>    
+
+    <font color="brown" ><b>
+
+<h1><font face="Freehand521 BT" color="#231F1E" size="8">It is only in sorrow bad weather masters us.......in joy we face the storm and defy it</font></h1><br><br>
+
+<h2><font face="Humnst777 Blk BT" color="#231F1E" size="6">Appointment form for psychologist and mentoring help</font></h2>
+
+ </br>
+
+<form method="post" action="connect_con.php" >
+<br><br>
+
+     
+ 
+  <label for="name">Name:</label>
+  <input type="text" id="name" name="name"  required><br><br>
+
+  <label for="email">E-mail ID:</label>
+  <input type="email" id="email" name="email"  required><br><br>
+
+  <label for="ph">phone number:</label>
+  <input type="number" id="ph" name="ph" id="ph"  required><br><br>
+
+  <label for="timer">time:</label>
+  <input type="time" id="timer" name="timer"  required><br><br>
+
+  
+
+  
+
+  
+<br><br><br>
+ 
+  <center>
+
+  
+  <div class="row">
+      <div class="col-200">
+        <label for="sub"><font size="4">mention the problem you are facing....pointwise</font></label>
+      </div>
+      <div class="col-200">
+        <textarea id="sub" name="sub" placeholder="mention here.." rows="8" cols="75"  required></textarea>
+      </div>
+    </div>
+
+  </center>
+
+  <br>  
+
+ <br>
+
+  
+   <tr>
+    <td><input type="submit" class="btn" name="submit" value="submit"></td>
+   </tr>
+
+    </b> 
+</font>
+</font>
+</form>
+</center>
+</div>
+</body>
+</html>
+
+<font face="Freehand521 BT" color="#231F1E" size="8">
+
+
